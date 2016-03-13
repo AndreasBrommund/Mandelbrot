@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by andreasbrommund on 2016-01-12.
+ * 
  */
 public class Mandelbrot extends JFrame{
 
